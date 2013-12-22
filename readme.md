@@ -9,4 +9,4 @@ A simple and small javascript templating engine for your HTML.
 
 The below html will show "Hello, stranger. Welcome to Mitra"
 
-![Alt screenshot](http://imgur.com/IvEYuge)
+![Alt screenshot](http://imgur.com/IvEYuge.png)
